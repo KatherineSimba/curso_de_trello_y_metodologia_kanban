@@ -45,6 +45,10 @@ Es perfecta para la gestión de proyectos ya que se pueden representar distintos
 
 Trello es una herramienta para la gestión de proyectos que permite hacer una gestión ágil y de fácil comprensión y se usa para proyectos personales como empresariales. también trello se puede usar para planificación personal, como un horario de tareas , etc.  Mediante la creación de cards que son muy fáciles de usar y que podemos llevar de forma más ordenada la gestión que deseamos crear y cada tarea que vayamos realizando marcando como completada. En esta herramienta pueden intervenir varias personas donde todas estarán implicadas y verán en todo momento cuáles son sus obligaciones, pero también cuál es el estado general, lo cual potenciará el trabajo en equipo y la proactividad.
 
+Trello es básicamente una página web que contiene listas dispuestas de manera horizontal de modo que puedas apreciar, de un vistazo, todo lo que hay en tu proyecto. Los ítems dentro de las listas, llamados cards, pueden arrastrarse y soltarse en otras listas o reordenarse.
+
+Las cards individuales pueden contener listas de tareas, imágenes, archivos adjuntos, fechas de entrega, etiquetas de colores y comentarios de otras personas que compartan contigo el board. Puedes tener tanto boards como quieras, utilizar una para "Tareas del Hogar"
+
 ## Características
 1) Empleando el sistema kanban, para el registro de actividades con tarjetas virtuales organiza tareas, permite agregar listas, adjuntar archivos, etiquetar eventos, agregar comentarios y compartir tableros.
 2) Trello es un tablón virtual en el que se pueden colgar ideas, tareas, imágenes o enlaces. Es versátil y fácil de usar pudiendo usarse para cualquier tipo de tarea que requiera organizar información.
